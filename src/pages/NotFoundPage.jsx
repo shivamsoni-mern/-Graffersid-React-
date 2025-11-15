@@ -7,7 +7,7 @@ function NotFoundPage() {
       <h1 className="text-9xl font-bold text-purple-700">404</h1>
       <p className="text-3xl font-semibold text-gray-800 mt-4">Page Not Found</p>
       <p className="text-gray-500 mt-2 mb-8">
-        Sorry, jo page aap dhoondh rahe hain, woh yahaan nahi hai.
+      Page not found
       </p>
       <Link
         to="/"
